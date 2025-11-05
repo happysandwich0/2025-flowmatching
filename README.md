@@ -1,5 +1,5 @@
 # 2025-flowmatching: Addressing Class Imbalance in Credit Card Fraud Detection using Forest Flow
-| Forest Flow를 이용한 신용카드 사기 탐지 내 클래스 불균형 문제 해결. 교내 프로젝트.
+|   Forest Flow를 이용한 신용카드 사기 탐지 내 클래스 불균형 문제 해결. 교내 프로젝트.
 
 ## 📌 Project Overview
 This project investigates the effectiveness of **Forest Flow**, a Flow-based generative model, in synthesizing minority class (fraudulent) transactions to mitigate the severe class imbalance challenge in credit card fraud detection. The goal is to demonstrate that this data augmentation technique can significantly enhance the predictive performance, especially in detecting rare fraud cases.
